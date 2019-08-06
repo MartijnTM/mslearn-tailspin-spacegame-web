@@ -1,3 +1,4 @@
+<PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20190806-134526" />
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
